@@ -10,7 +10,7 @@ install dependency
 npm install [--save-dev] @ircam/jsdoc-template 
 ```
 
-and configure `conf.json`
+and configure your `jsdoc.json`
 
 ```
 "opts": {
