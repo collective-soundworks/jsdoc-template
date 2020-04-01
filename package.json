@@ -1,6 +1,6 @@
 {
   "name": "@ircam/jsdoc-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "jsdoc template with minor modifications",
   "main": "publish.js",
   "publishConfig": {
